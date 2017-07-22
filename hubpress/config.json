@@ -5,6 +5,23 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://spjulius.github.io",
+    "hubpress": "https://spjulius.github.io",
+    "theme": "//spjulius.github.io/themes/casper",
+    "images": "https://spjulius.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }

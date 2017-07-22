@@ -2,8 +2,7 @@
   "meta": {
     "username": "spjulius",
     "repositoryName": "me",
-    "branch": "master",
-    "cname": ""
+    "branch": "master"
   },
   "theme": {
     "name": "casper"
@@ -24,27 +23,5 @@
       null
     ],
     "_Ctor": {}
-  },
-  "site": {
-    "title": "",
-    "description": "",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
-    "facebook": "",
-    "googleplus": "",
-    "instagram": "",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": ""
   }
 }
